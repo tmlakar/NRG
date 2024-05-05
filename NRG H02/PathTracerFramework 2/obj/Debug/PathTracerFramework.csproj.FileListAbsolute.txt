@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\Desktop\University\Napredna računalniška grafika (NRG)\2024\2.dn\PathTracerFramework 2\bin\Debug\PathTracer.exe.config
+\\Mac\Home\Desktop\Desktop\University\Napredna računalniška grafika (NRG)\2024\2.dn\PathTracerFramework 2\bin\Debug\PathTracer.exe
+\\Mac\Home\Desktop\Desktop\University\Napredna računalniška grafika (NRG)\2024\2.dn\PathTracerFramework 2\bin\Debug\PathTracer.pdb
+\\Mac\Home\Desktop\Desktop\University\Napredna računalniška grafika (NRG)\2024\2.dn\PathTracerFramework 2\bin\Debug\MathNet.Numerics.dll
+\\Mac\Home\Desktop\Desktop\University\Napredna računalniška grafika (NRG)\2024\2.dn\PathTracerFramework 2\bin\Debug\MathNet.Spatial.dll
+\\Mac\Home\Desktop\Desktop\University\Napredna računalniška grafika (NRG)\2024\2.dn\PathTracerFramework 2\bin\Debug\MathNet.Numerics.xml
+\\Mac\Home\Desktop\Desktop\University\Napredna računalniška grafika (NRG)\2024\2.dn\PathTracerFramework 2\bin\Debug\MathNet.Spatial.xml
+\\Mac\Home\Desktop\Desktop\University\Napredna računalniška grafika (NRG)\2024\2.dn\PathTracerFramework 2\obj\Debug\PathTracerFramework.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Desktop\University\Napredna računalniška grafika (NRG)\2024\2.dn\PathTracerFramework 2\obj\Debug\PathTracer.MainWindow.resources
+\\Mac\Home\Desktop\Desktop\University\Napredna računalniška grafika (NRG)\2024\2.dn\PathTracerFramework 2\obj\Debug\PathTracer.Properties.Resources.resources
+\\Mac\Home\Desktop\Desktop\University\Napredna računalniška grafika (NRG)\2024\2.dn\PathTracerFramework 2\obj\Debug\PathTracerFramework.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Desktop\University\Napredna računalniška grafika (NRG)\2024\2.dn\PathTracerFramework 2\obj\Debug\PathTracerFramework.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Desktop\University\Napredna računalniška grafika (NRG)\2024\2.dn\PathTracerFramework 2\obj\Debug\PathTracerFramework.csproj.CopyComplete
+\\Mac\Home\Desktop\Desktop\University\Napredna računalniška grafika (NRG)\2024\2.dn\PathTracerFramework 2\obj\Debug\PathTracer.exe
+\\Mac\Home\Desktop\Desktop\University\Napredna računalniška grafika (NRG)\2024\2.dn\PathTracerFramework 2\obj\Debug\PathTracer.pdb
