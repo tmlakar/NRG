@@ -3,5 +3,4 @@
 Repository contains:    
   
 /NRG H01 (Gaussian splatting)  
-/NRG H02 (Physically based rendering)  
-/NRG Seminar (Volume-based special effects in games)  
+/NRG H02 (Physically based rendering)    
